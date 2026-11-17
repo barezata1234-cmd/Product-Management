@@ -348,7 +348,7 @@ The Product API uses these data types:
 | id | Integer | 1 |
 | name | String | iPhone 17 |
 | category_id | Integer | 2 |
-| price | Number | 1200 |
+| price | Decimal | 1200 |
 | stock | Integer | 15 |
 | is_active | Boolean | true |
 | category | Object | Category information |
